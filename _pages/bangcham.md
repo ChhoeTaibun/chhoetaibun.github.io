@@ -6,7 +6,7 @@ toc: false
 
 下底chiah ê網站是眼時前咱牛--哥ē去chhōe--ê，照網址排列。Mā歡迎推薦其他有台語文章ê網站。
 
-| 網址                                                                                                          | 名                                 |
+| 網址                                                                                                                   | 名                                    |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | [https://apod.tw/](https://apod.tw/)                                                                                 | 逐工一幅天文圖                              |
 | [https://chuliaukhou.blogspot.com/](https://chuliaukhou.blogspot.com/)                                               | 醫學台語/台灣醫學語言資料庫                       |
@@ -19,6 +19,7 @@ toc: false
 | [https://kongiongiohhng.blogspot.com/](https://kongiongiohhng.blogspot.com/)                                         | 公用ê藥方                                |
 | [https://lgkkhanhouhak.blogspot.com/](https://lgkkhanhouhak.blogspot.com/)                                           | 內外科看護學                               |
 | [https://oh.taigi.info/](https://oh.taigi.info/)                                                                     | 狗公會曉學台語                              |
+| [https://pen.de-han.org/taioanji/](https://pen.de-han.org/taioanji/)                                                 | TÂI-OÂN-JĪ 台灣字                       |
 | [https://siaulahjih.github.io/ChohChhanLang/](https://siaulahjih.github.io/ChohChhanLang/)                           | 《作田人博物館》                             |
 | [https://siaulahjih.github.io/KiamSngTinn1/](https://siaulahjih.github.io/KiamSngTinn1/)                             | 《台灣俗語鹹酸甜》（第一冊）                       |
 | [https://siaulahjih.github.io/KiamSngTinn2/](https://siaulahjih.github.io/KiamSngTinn2/)                             | 《台灣俗語鹹酸甜》（第二冊）                       |
