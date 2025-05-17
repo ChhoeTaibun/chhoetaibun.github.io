@@ -15,3 +15,9 @@ toc: false
 Nā需要特別chhōe某mih詞，ē-tàng用雙引號來chhōe：
 
 [![Google Search Tip: Find an exact phrase](https://img.youtube.com/vi/n16BVXzNSj8/0.jpg)](https://www.youtube.com/watch?v=n16BVXzNSj8 "Google Search Tip: Find an exact phrase"){:target="_blank"}
+
+## 制限
+
+Gú-go͘h PSE iăn-jín ê功能kan-na ē-tàng 1 pái siōng chē顯示100條資料。
+
+（1頁siōng chē顯示20條，siōng chē 5頁。）
