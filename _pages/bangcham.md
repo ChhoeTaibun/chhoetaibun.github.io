@@ -30,9 +30,6 @@ toc: false
 | [https://siutosipo.blogspot.com/](https://siutosipo.blogspot.com/)                                                   | STSP 首都詩報                            |
 | [https://taibunthongsin.taigi.info/](https://taibunthongsin.taigi.info/)                                             | 台文通訊                                 |
 | [https://taigi-pahkho.fandom.com/](https://taigi-pahkho.fandom.com/)                                                 | 台語百科 Wiki \| Fandom                  |
-| [https://taigi.fhl.net/dic_un/](https://taigi.fhl.net/dic_un/)                                                       | 台語信望愛 台華對應綜合大辭典查詢                    |
-| [https://taigi.fhl.net/dick/](https://taigi.fhl.net/dick/)                                                           | 台語信望愛 甘字典                            |
-| [https://taigi.fhl.net/dict/](https://taigi.fhl.net/dict/)                                                           | 台語信望愛 台語辭典(台日大辭典台語譯本)                |
 | [https://taigi.page/](https://taigi.page/)                                                                           | 潘科元台語文理想國                            |
 | [https://taigu.fhl.net/](https://taigu.fhl.net/)                                                                     | 台語信望愛                                |
 | [https://taioanchouhap.pixnet.net/blog](https://taioanchouhap.pixnet.net/blog)                                       | 台灣組合                                 |
