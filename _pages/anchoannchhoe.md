@@ -1,6 +1,6 @@
 ---
 permalink: /anchoannchhoe/
-title: "按怎Chhōe？"
+title: "按怎Chhōe"
 toc: false
 ---
 
@@ -14,4 +14,4 @@ toc: false
 
 Nā需要特別chhōe某mih詞，ē-tàng用雙引號來chhōe：
 
-[![Google Search Tip: Find an exact phrase](https://img.youtube.com/vi/n16BVXzNSj8/0.jpg)](https://www.youtube.com/watch?v=n16BVXzNSj8 "Google Search Tip: Find an exact phrase")
+[![Google Search Tip: Find an exact phrase](https://img.youtube.com/vi/n16BVXzNSj8/0.jpg)](https://www.youtube.com/watch?v=n16BVXzNSj8 "Google Search Tip: Find an exact phrase"){:target="_blank"}
