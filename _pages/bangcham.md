@@ -14,6 +14,7 @@ toc: false
 | [https://db.nmtl.gov.tw/site3/home](https://db.nmtl.gov.tw/site3/home)                                               | 白話字數位典藏博物館                           |
 | [https://db.nmtl.gov.tw/site3/index](https://db.nmtl.gov.tw/site3/index)                                             | 台語文學發展史資料庫                           |
 | [https://db.nmtl.gov.tw/site4/s5/index](https://db.nmtl.gov.tw/site4/s5/index)                                       | 台灣民間說唱文學歌仔冊資料庫                       |
+| [https://hackmd.io/@TaigiSTEM](https://hackmd.io/@TaigiSTEM)                                                         | 台語STEM標準化計畫                          |
 | [https://jukhai.blogspot.com/](https://jukhai.blogspot.com/)                                                         | Tâi-gí Hēng-hok Soaⁿ Tê-hn̂g 台語幸福山茶園 |
 | [https://kiek.taigi.info/](https://kiek.taigi.info/)                                                                 | 台語文記憶 ▸ TÂI-GÍ-BÛN KÌ-EK             |
 | [https://kongiongiohhng.blogspot.com/](https://kongiongiohhng.blogspot.com/)                                         | 公用ê藥方                                |
@@ -28,6 +29,9 @@ toc: false
 | [https://sintheli.blogspot.com/](https://sintheli.blogspot.com/)                                                     | Sin-thé-lí 身體理                       |
 | [https://siutosipo.blogspot.com/](https://siutosipo.blogspot.com/)                                                   | STSP 首都詩報                            |
 | [https://taibunthongsin.taigi.info/](https://taibunthongsin.taigi.info/)                                             | 台文通訊                                 |
+| [https://taigi.fhl.net/dic_un/](https://taigi.fhl.net/dic_un/)                                                       | 台語信望愛 台華對應綜合大辭典查詢                    |
+| [https://taigi.fhl.net/dick/](https://taigi.fhl.net/dick/)                                                           | 台語信望愛 甘字典                            |
+| [https://taigi.fhl.net/dict/](https://taigi.fhl.net/dict/)                                                           | 台語信望愛 台語辭典(台日大辭典台語譯本)                |
 | [https://taigi.page/](https://taigi.page/)                                                                           | 潘科元台語文理想國                            |
 | [https://taigu.fhl.net/](https://taigu.fhl.net/)                                                                     | 台語信望愛                                |
 | [https://taioanchouhap.pixnet.net/blog](https://taioanchouhap.pixnet.net/blog)                                       | 台灣組合                                 |
