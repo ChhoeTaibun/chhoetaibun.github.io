@@ -14,6 +14,7 @@ toc: false
 | [https://db.nmtl.gov.tw/site3/home](https://db.nmtl.gov.tw/site3/home)                                               | 白話字數位典藏博物館                           |
 | [https://db.nmtl.gov.tw/site3/index](https://db.nmtl.gov.tw/site3/index)                                             | 台語文學發展史資料庫                           |
 | [https://db.nmtl.gov.tw/site4/s5/index](https://db.nmtl.gov.tw/site4/s5/index)                                       | 台灣民間說唱文學歌仔冊資料庫                       |
+| [https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/)                                 | 歌仔冊與唸歌 · 國立臺灣大學圖書館數位典藏館              |
 | [https://hackmd.io/@TaigiSTEM](https://hackmd.io/@TaigiSTEM)                                                         | 台語STEM標準化計畫                          |
 | [https://jukhai.blogspot.com/](https://jukhai.blogspot.com/)                                                         | Tâi-gí Hēng-hok Soaⁿ Tê-hn̂g 台語幸福山茶園 |
 | [https://kiek.taigi.info/](https://kiek.taigi.info/)                                                                 | 台語文記憶 ▸ TÂI-GÍ-BÛN KÌ-EK             |
