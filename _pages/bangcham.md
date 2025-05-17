@@ -29,6 +29,7 @@ toc: false
 | [https://sintheli.blogspot.com/](https://sintheli.blogspot.com/)                                                     | Sin-thé-lí 身體理                       |
 | [https://siutosipo.blogspot.com/](https://siutosipo.blogspot.com/)                                                   | STSP 首都詩報                            |
 | [https://taibunthongsin.taigi.info/](https://taibunthongsin.taigi.info/)                                             | 台文通訊                                 |
+| [https://taigi-pahkho.fandom.com/](https://taigi-pahkho.fandom.com/)                                                 | 台語百科 Wiki \| Fandom                  |
 | [https://taigi.fhl.net/dic_un/](https://taigi.fhl.net/dic_un/)                                                       | 台語信望愛 台華對應綜合大辭典查詢                    |
 | [https://taigi.fhl.net/dick/](https://taigi.fhl.net/dick/)                                                           | 台語信望愛 甘字典                            |
 | [https://taigi.fhl.net/dict/](https://taigi.fhl.net/dict/)                                                           | 台語信望愛 台語辭典(台日大辭典台語譯本)                |
@@ -39,3 +40,6 @@ toc: false
 | [https://thak.taigi.info/](https://thak.taigi.info/)                                                                 | ChhoeTaigi冊讀á                        |
 | [https://tsbp.tgb.org.tw/](https://tsbp.tgb.org.tw/)                                                                 | 台文通訊BONG報                            |
 | [https://tutumasa.blogspot.com/](https://tutumasa.blogspot.com/)                                                     | 懶魚醉貓e烏白寫                             |
+| [https://www.threads.com/@tstgcp/](https://www.threads.com/@tstgcp/)                                                 | Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫    |
+| [https://x.com/tstgcp](https://x.com/tstgcp)                                                                         | Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫    |
+| [https://zh-min-nan.wikipedia.org/](https://zh-min-nan.wikipedia.org/)                                               | Wikipedia（白話字版）                      |
