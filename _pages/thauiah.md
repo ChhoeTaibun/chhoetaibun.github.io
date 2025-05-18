@@ -19,20 +19,23 @@ excerpt: >
 
 feature_row:
   - title: "台文牛--哥"
-    excerpt: "利用Gú-go͘h iăn-jín ê功能kā咱注心tàu chhōe台語文章。"
+    excerpt: "利便台語學習者參考台語文章，來學習台語語詞ê意思、語法、句法。"
     btn_class: "btn--info"
     btn_label: "紹介"
     url: "/siaukai/"
   - title: "台語文章內容索引"
-    excerpt: "Tàu khiām全台文網站hō͘牛--哥chhōe，mā ē-sái ka-tī去讀。"
+    excerpt: "Tàu khioh全台文網站hō͘牛--哥chhōe，mā ē-sái去網站讀文章。"
     btn_class: "btn--warning"
     btn_label: "台文網站"
     url: "/bangcham/"
   - title: "Chhōe台文語句"
-    excerpt: "牛--哥報你讀台文。內底有siáⁿ-mih語句？緊來chhōe看māi！"
+    excerpt: "來chia參考別人文章按怎寫。對語詞使用ê語意、情境kap語法ē ke真了解。"
     btn_class: "btn--success"
     btn_label: "按怎Chhōe"
     url: "/anchoannchhoe/"
 ---
 
 {% include feature_row %}
+
+<br />
+[![ChhoeTaigi](/assets/images/chhoetaigi_logo.png)](https://chhoe.taigi.info/){:target="_blank"}
