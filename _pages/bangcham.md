@@ -29,6 +29,7 @@ toc: false
 | [https://siaulahjih.github.io/TaiOanChiauA/](https://siaulahjih.github.io/TaiOanChiauA/)                             | 《還我台灣鳥仔名》                            |
 | [https://sintheli.blogspot.com/](https://sintheli.blogspot.com/)                                                     | Sin-thé-lí 身體理                       |
 | [https://siutosipo.blogspot.com/](https://siutosipo.blogspot.com/)                                                   | STSP 首都詩報                            |
+| [https://suisuetaigisia.blogspot.com/](https://suisuetaigisia.blogspot.com/)                                         | Làu台語-瑞士ê台語社                         |
 | [https://taibunthongsin.taigi.info/](https://taibunthongsin.taigi.info/)                                             | 台文通訊                                 |
 | [https://taigi-pahkho.fandom.com/](https://taigi-pahkho.fandom.com/)                                                 | 台語百科 Wiki \| Fandom                  |
 | [https://taigi.page/](https://taigi.page/)                                                                           | 潘科元台語文理想國                            |
