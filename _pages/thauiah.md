@@ -29,7 +29,7 @@ feature_row:
     btn_label: "台文網站"
     url: "/bangcham/"
   - title: "Chhōe台文語句"
-    excerpt: "牛--哥報你讀台文。內底有siáⁿ-mih語詞？緊來chhōe看māi！"
+    excerpt: "牛--哥報你讀台文。內底有siáⁿ-mih語句？緊來chhōe看māi！"
     btn_class: "btn--success"
     btn_label: "按怎Chhōe"
     url: "/anchoannchhoe/"
