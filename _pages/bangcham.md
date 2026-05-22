@@ -34,11 +34,13 @@ toc: false
 | [https://taigi-pahkho.fandom.com/](https://taigi-pahkho.fandom.com/)                                                 | 台語百科 Wiki \| Fandom                  |
 | [https://taigi.page/](https://taigi.page/)                                                                           | 潘科元台語文理想國                            |
 | [https://taigu.fhl.net/](https://taigu.fhl.net/)                                                                     | 台語信望愛                                |
+| [https://taigubang.taigi.info/](https://taigubang.taigi.info/)                                                       | Tâi-gú Bāng (TGB 台語網)               |
 | [https://taioanchouhap.pixnet.net/blog](https://taioanchouhap.pixnet.net/blog)                                       | 台灣組合                                 |
 | [https://taiwanese-corpus.github.io/Khin-hoan_2010_pojbh/](https://taiwanese-corpus.github.io/Khin-hoan_2010_pojbh/) | 台灣白話字文獻館（khó͘-phih）                 |
 | [https://thak.taigi.info/](https://thak.taigi.info/)                                                                 | ChhoeTaigi冊讀á                        |
 | [https://tsbp.tgb.org.tw/](https://tsbp.tgb.org.tw/)                                                                 | 台文通訊BONG報                            |
 | [https://tutumasa.blogspot.com/](https://tutumasa.blogspot.com/)                                                     | 懶魚醉貓e烏白寫                             |
+| [https://www.taigiedu.com/](https://www.taigiedu.com/)                                                               | 台語文教學共融平台                            |
 | [https://www.threads.com/@tstgcp/](https://www.threads.com/@tstgcp/)                                                 | Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫    |
 | [https://x.com/tstgcp](https://x.com/tstgcp)                                                                         | Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫    |
 | [https://zh-min-nan.wikipedia.org/](https://zh-min-nan.wikipedia.org/)                                               | Wikipedia（白話字版）                      |
